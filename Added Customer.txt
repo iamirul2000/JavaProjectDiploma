@@ -1,0 +1,72 @@
+
+	GSC Cinemas
+Customer Name: 	Che Wan
+Ic: 		000112-10-0987
+Movie Title: 	Avengers:End Game
+Movie Date: 	12/10/2019
+Movie Time: 	12:10
+No of Seat: 	E07
+Price:RM 	25.0
+
+    Maraliner Ticket
+Customer Name: 	Wan Ilhami
+IC : 		000319-10-0223
+Bus Name: 	Maraliner
+Depart Date: 	12/08/2019
+Seat: 		Business
+State: 		Kedah
+Price:RM 	60.0
+
+    Pahang Lin Siong Ticket
+Customer Name: 	Lan
+IC : 		000114-08-0975
+Bus Name: 	Pahang Lin Siong
+Depart Date: 	13/10/2019
+Seat: 		Economy
+State: 		Kelantan
+Price:RM 	100.0
+
+	GSC Cinemas
+Customer Name: 	Adib
+Ic: 		000112-02-0873
+Movie Title: 	Frozen 2
+Movie Date: 	16/10/2019
+Movie Time: 	10:30
+No of Seat: 	D09
+Price:RM 	15.0
+
+	GSC Cinemas
+Customer Name: 	Aidid
+Ic: 		000116-06-0765
+Movie Title: 	Spiderman
+Movie Date: 	16/08/2019
+Movie Time: 	12:20
+No of Seat: 	G07
+Price:RM 	25.0
+
+    Central Pahang Ticket
+Customer Name: 	Hariz
+IC : 		001208-10-0983
+Bus Name: 	Central Pahang
+Depart Date: 	12/10/2019
+Seat: 		Business
+State: 		Kelantan
+Price:RM 	120.0
+
+	GSC Cinemas
+Customer Name: 	Haziq
+Ic: 		001130-14-0065
+Movie Title: 	Now You See Me
+Movie Date: 	12/08/2019
+Movie Time: 	15:30
+No of Seat: 	F01
+Price:RM 	25.0
+
+	GSC Cinemas
+Customer Name: 	Amirul Iman
+Ic: 		000113-10-0527
+Movie Title: 	Frozen 2
+Movie Date: 	12/09/2019
+Movie Time: 	12:20
+No of Seat: 	E09
+Price:RM 	25.0

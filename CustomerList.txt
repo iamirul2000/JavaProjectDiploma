@@ -1,0 +1,10 @@
+Che Wan;000112-10-0987;Movie;12/10/2019;Avengers:End Game;13;E07;12:10
+Wan Ilhami;000319-10-0223;Bus;Maraliner;12/08/2019;Business;Kedah
+Hafiz Fadhlan;000114-08-0975;Bus;Pahang Lin Siong;13/10/2019;Economy;Kelantan
+Adib Fikri;000112-02-0873;Movie;16/10/2019;Frozen 2;10;D09;10:30
+Aidid Aizad;000116-06-0765;Movie;16/08/2019;Spiderman;15;G07;12:20
+Hariz Akmal;001208-10-0983;Bus;Central Pahang;12/10/2019;Business;Kelantan
+Faris Haziq;001130-14-0065;Movie;12/08/2019;Now You See Me;20;F01;15:30
+Amirul Iman;000113-10-0527;Bus;Maraliner;17/09/2019;Business;Terengganu
+Nur Diyanah;000107-10-0542;Movie;12/05/2019;Zootopia;20;H10;11:30
+Iman Sofia;001018-10-0852;Bus;Maraliner;15/10/2019;Economy;Terengganu

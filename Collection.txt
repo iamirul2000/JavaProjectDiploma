@@ -1,0 +1,8 @@
+Summary Ticketing System
+
+Ticket 	No Of Ticket 	 Collection(RM)
+-----------------------------------------
+Movie		5		115.0
+Bus		5		420.0
+-----------------------------------------
+TOTAL		10		535.0

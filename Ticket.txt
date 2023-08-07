@@ -1,0 +1,90 @@
+
+	GSC Cinemas
+Customer Name: 	Che Wan
+Ic: 		000112-10-0987
+Movie Title: 	Avengers:End Game
+Movie Date: 	12/10/2019
+Movie Time: 	12:10
+No of Seat: 	E07
+Price:RM 	25.0
+
+    Maraliner Ticket
+Customer Name: 	Wan Ilhami
+IC : 		000319-10-0223
+Bus Name: 	Maraliner
+Depart Date: 	12/08/2019
+Seat: 		Business
+State: 		Kedah
+Price:RM 	60.0
+
+    Pahang Lin Siong Ticket
+Customer Name: 	Hafiz Fadhlan
+IC : 		000114-08-0975
+Bus Name: 	Pahang Lin Siong
+Depart Date: 	13/10/2019
+Seat: 		Economy
+State: 		Kelantan
+Price:RM 	100.0
+
+	GSC Cinemas
+Customer Name: 	Adib Fikri
+Ic: 		000112-02-0873
+Movie Title: 	Frozen 2
+Movie Date: 	16/10/2019
+Movie Time: 	10:30
+No of Seat: 	D09
+Price:RM 	15.0
+
+	GSC Cinemas
+Customer Name: 	Aidid Aizad
+Ic: 		000116-06-0765
+Movie Title: 	Spiderman
+Movie Date: 	16/08/2019
+Movie Time: 	12:20
+No of Seat: 	G07
+Price:RM 	25.0
+
+    Central Pahang Ticket
+Customer Name: 	Hariz Akmal
+IC : 		001208-10-0983
+Bus Name: 	Central Pahang
+Depart Date: 	12/10/2019
+Seat: 		Business
+State: 		Kelantan
+Price:RM 	120.0
+
+	GSC Cinemas
+Customer Name: 	Faris Haziq
+Ic: 		001130-14-0065
+Movie Title: 	Now You See Me
+Movie Date: 	12/08/2019
+Movie Time: 	15:30
+No of Seat: 	F01
+Price:RM 	25.0
+
+    Maraliner Ticket
+Customer Name: 	Amirul Iman
+IC : 		000113-10-0527
+Bus Name: 	Maraliner
+Depart Date: 	17/09/2019
+Seat: 		Business
+State: 		Terengganu
+Price:RM 	80.0
+
+	GSC Cinemas
+Customer Name: 	Nur Diyanah
+Ic: 		000107-10-0542
+Movie Title: 	Zootopia
+Movie Date: 	12/05/2019
+Movie Time: 	11:30
+No of Seat: 	H10
+Price:RM 	25.0
+
+    Maraliner Ticket
+Customer Name: 	Iman Sofia
+IC : 		001018-10-0852
+Bus Name: 	Maraliner
+Depart Date: 	15/10/2019
+Seat: 		Economy
+State: 		Terengganu
+Price:RM 	60.0
